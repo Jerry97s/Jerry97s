@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/edfr85/Jerry97/blob/main/JerrysGithub.gif?raw=true" />
+  <img src="https://github.com/Jerry97s/Jerry97s/blob/main/JerrysGithub.gif?raw=true"?raw=true" />
 </div>
 <br>
 <div align="center">
