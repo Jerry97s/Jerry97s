@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/Jerry97s/Jerry97s/blob/main/JerrysGithub.gif?raw=true"?raw=true" />
+<h3 align="center">✨ HD Hyundai ✨</h3>
 </div>
 <br>
 <div align="center">
