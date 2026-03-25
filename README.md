@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-<h3 align="center">✨ HD Hyundai ✨</h3>
+<h3 align="center">✨ HDP ✨</h3>
 </div>
 <br>
 <div align="center">
